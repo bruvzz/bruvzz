@@ -8,9 +8,9 @@
 
 ## Projects 🚧
 
-> I'm currently working on a level 2, free script-hub for the game ROBLOX. This is something I've been working on for a little under a year, with a team of friends I know very well and trusted.
+> I'm currently working on a level 2, free script-hub for the game [ROBLOX](https://www.roblox.com/home). This is something I've been working on for a little under a year, with a team of friends I know very well and trusted.
 
-## GitHub Statistics 
+## GitHub Statistics 🤖
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bruvzz&count_private=true&show_icons=true&include_all_commits=true&theme=dark&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvzz&hide=TeX&layout=compact&theme=dark)
