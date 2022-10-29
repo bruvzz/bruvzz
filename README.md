@@ -8,7 +8,7 @@
 
 ## Projects 🚧
 
-> I'm currently working on a a level 2, free script-hub for the game ROBLOX. This is something I've been working on for a little under a year, with a team of friends I know very well and trusted.
+> I'm currently working on a level 2, free script-hub for the game ROBLOX. This is something I've been working on for a little under a year, with a team of friends I know very well and trusted.
 
 ## GitHub Statistics 
 
