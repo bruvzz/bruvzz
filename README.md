@@ -1,4 +1,4 @@
-### Hello! 👋
+## Hello! 👋
 
 > I am bruvzz, otherwise known as Ducky#3566. I'm a [YouTube Content Creator](https://www.youtube.com/channel/UC9x5T2CzdNdVVW6iVHqF_qg) with over 200 subscribers, a Python // Luau Developer, and a UI Designer.
 
