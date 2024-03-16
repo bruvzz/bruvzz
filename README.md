@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-> I am bruvzz, otherwise known as Ducky#9373. I'm a [YouTube Content Creator](https://www.youtube.com/channel/UC9x5T2CzdNdVVW6iVHqF_qg) with over 200 subscribers, a Python // Luau Developer, and a UI Designer.
+> I am bruvzz, otherwise known as Ducky#9373. I'm a [YouTube Content Creator](https://www.youtube.com/channel/UC9x5T2CzdNdVVW6iVHqF_qg) with over 300 subscribers, a Python // Luau Developer, and a UI Designer.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
