@@ -16,6 +16,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvzz&hide=TeX&layout=compact&theme=dark)
 
 ## Discord Presence 🤖
-&nbsp; <br> [![Discord Presence](https://lanyard.cnrad.dev/api/731312800676315146)](https://discord.com/users/731312800676315146)
+[![Discord Presence](https://lanyard.cnrad.dev/api/731312800676315146)](https://discord.com/users/731312800676315146)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bruvzz)
