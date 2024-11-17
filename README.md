@@ -16,7 +16,7 @@
 
 ## GitHub Statistics 🤖
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvzz&hide=TeX&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvzz&hide=TeX&theme=github_dark_dimmed)
 
 ## Discord Presence 🌙
 [![Discord Presence](https://lanyard.cnrad.dev/api/731312800676315146)](https://discord.com/users/731312800676315146)
