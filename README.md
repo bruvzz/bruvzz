@@ -16,9 +16,7 @@
 
 ## GitHub Statistics 🤖
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bruvzz&count_private=true&show_icons=true&include_all_commits=true&theme=dark&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvzz&hide=TeX&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruvzz&hide=TeX&theme=onedark)
 
 ## Discord Presence 🌙
 [![Discord Presence](https://lanyard.cnrad.dev/api/731312800676315146)](https://discord.com/users/731312800676315146)
