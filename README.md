@@ -1,14 +1,18 @@
 ## Hello! 👋
 
-> I am bruvzz, formerly known as Ducky#9373. I'm a [YouTube Content Creator](https://www.youtube.com/channel/UC9x5T2CzdNdVVW6iVHqF_qg) with over 300 subscribers, a Lua // Javascript // Partial Web Developer, and a UI Designer.
+> I am bruvzz, formerly known as Ducky#9373. I'm a [YouTube Content Creator](https://www.youtube.com/channel/UC9x5T2CzdNdVVW6iVHqF_qg) with over 300 subscribers, a Lua // Javascript // Python // Partial Web Developer, and a UI Designer.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd45)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ## Projects 🚧
 
-> I'm currently working on a free script-hub for the game [Roblox](https://www.roblox.com/home). This is something I've been working on for a little under 2 years, with a team of friends I know very well and trusted.
+> [Oasis Hub](https://github.com/bruvzz/oasishub) - A Roblox universal script-hub to enhance your experience to have lots of fun.
+
+> [duckie-bot](https://github.com/bruvzz/duckie-bot) - A custom bot I play around with in my free time.
 
 ## GitHub Statistics 🤖
 
