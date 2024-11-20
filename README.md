@@ -8,6 +8,12 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
+<div align="center">
+  <br/>
+  <a href="https://discord.gg/BfDa5tpstf"><img src="https://invidget.switchblade.xyz/BfDa5tpstf" alt="Discord Invite"/> </a>
+  <br/>
+</div>
+
 ## Projects 🚧
 
 > [Oasis Hub](https://github.com/bruvzz/oasishub) - A Roblox universal script-hub to enhance your experience to have lots of fun.
