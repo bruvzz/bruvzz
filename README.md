@@ -1,4 +1,6 @@
-## Hello! 👋
+<h2 align="center">Hello! 👋</h2>
+<br/>
+<div align="center">
 
 > I am bruvzz, formerly known as Ducky#9373. I'm a [YouTube Content Creator](https://www.youtube.com/channel/UC9x5T2CzdNdVVW6iVHqF_qg) with over 300 subscribers, a Lua // Javascript // Python // Partial Web Developer, and a UI Designer.
 
