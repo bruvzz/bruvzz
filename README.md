@@ -16,6 +16,8 @@
   <br/>
 </div>
 
+*Recently, Discord has falsely terminated my main account. So, in the meantime, any questions/inquiries can be redirected to [dhhdhejjr](https://discord.com/users/975593523409719367).*
+
 ## Projects 🚧
 
 > [Oasis Hub](https://github.com/bruvzz/oasishub) - A Roblox universal script-hub to enhance your experience to have lots of fun.
