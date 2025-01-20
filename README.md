@@ -16,7 +16,7 @@
   <br/>
 </div>
 
-*Recently, Discord has falsely terminated my main account. So, in the meantime, any questions/inquiries can be redirected to [dhhdhejjr](https://discord.com/users/975593523409719367).*
+*Recently, Discord has falsely terminated my main account. So, in the meantime, I will remain silent until things settle down.*
 
 ## Projects 🚧
 
